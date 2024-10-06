@@ -10,6 +10,11 @@
 \usepackage[margin=1cm, a4paper]{geometry}
 
 
+\usepackage{xcolor}
+\usepackage{fontawesome}
+\definecolor{cvblue}{HTML}{003366}
+
+
 %------------------------------------------------------------------ Variablen
 
 \newlength{\rightcolwidth}
@@ -62,7 +67,7 @@
 \bigskip
 
 
-\bg{cvgreen}{white}{ About me } \\[0.5em]
+\bg{cvblue}{white}{ About me } \\[0.5em]
 Nationality : French  \\
 Birth : 16/01/2003 \\
 Adress : 13 rue du Maennelstein \\ Strasbourg, France
@@ -73,7 +78,7 @@ Adress : 13 rue du Maennelstein \\ Strasbourg, France
 \bigskip
 
 
-\bg{cvgreen}{white}{Skills} \\[0.5em]
+\bg{cvblue}{white}{Skills} \\[0.5em]
 
 ~•~ Good communication and teamwork skills \\
 ~•~ Good adaptability and observation skills \\
@@ -84,7 +89,7 @@ Adress : 13 rue du Maennelstein \\ Strasbourg, France
 \bigskip
 
 
-\bg{cvgreen}{white}{Interests}\\[0.5em]
+\bg{cvblue}{white}{Interests}\\[0.5em]
 
 ~•~ Mathematics and computer science \\
 ~•~ Figure skating \\
@@ -94,9 +99,9 @@ Adress : 13 rue du Maennelstein \\ Strasbourg, France
 
 \vspace{4em}
 
-\infobubble{\faPhone}{cvgreen}{white}{0768186222}
-\infobubble{\faAt}{cvgreen}{white}{\parbox{0.7\linewidth}{hanna.chetouane@\\etu.unistra.fr}}
-\infobubble{\faGithub}{cvgreen}{white}{Hanna-che}
+\infobubble{\faPhone}{cvblue}{white}{0768186222}
+\infobubble{\faAt}{cvblue}{white}{\parbox{0.7\linewidth}{hanna.chetouane@\\etu.unistra.fr}}
+\infobubble{\faGithub}{cvblue}{white}{Hanna-che}
 
 
 \phantom{turn the page}
@@ -129,9 +134,9 @@ Adress : 13 rue du Maennelstein \\ Strasbourg, France
 \end{minipage}\hfill
 \begin{minipage}[t]{0.3\textwidth}
 \section*{Certificates}
-\begin{tabular}{>{\footnotesize\bfseries}r >{\footnotesize}p{0.55\textwidth}}
-    2024 & {\textbf{\color{gray!140} BF1}} (first ice sports coaching certificate) \\
-    2024 & {\textbf{\color{gray!140} PSC1}} (Level 1 prevention and first aid) \\
+\begin{tabular}{>{\footnotesize\bfseries}r >{\footnotesize}p{0.55\textwidth} c}
+    2024 & {\textbf{\color{gray!140} BF1}} (first ice sports coaching certificate) & {\color{cvgreen} \faCertificate} \\
+    2024 & {\textbf{\color{gray!140} PSC1}} (Level 1 prevention and first aid) & {\color{cvgreen} \faCertificate} \\
     2022 & {\textbf{\color{gray!140} B driving license}} \\
 \end{tabular}
 \end{minipage}

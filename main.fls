@@ -1,8 +1,8 @@
-PWD /workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv
+PWD /workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex
+INPUT /workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex
 OUTPUT main.log
 INPUT ./simplehipstercv.cls
 INPUT simplehipstercv.cls

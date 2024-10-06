@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728210427.44137 "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" "main.pdf" "main" 1728210428.31974 0
+["pdflatex"] 1728216331.9325 "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" "main.pdf" "main" 1728216332.83279 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -216,13 +216,13 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1728066342 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1728066427 3325963 35979c8d4c2af92bfd208ae04ef2dc73 ""
   "/usr/local/texlive/2024/texmf.cnf" 1728066335 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" 1728210426.15993 5890 b6e5ab47eef36ad8a6e9a1f87e112b67 ""
-  "jack.jpg" 1728202551.94798 203784 2738576fd541d648ba9772042bc98def ""
-  "main.aux" 1728210428.18793 205 e0f3f30905e323e3dbd0313132f84219 "pdflatex"
-  "main.out" 1728210428.03193 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1728210426.15993 5890 b6e5ab47eef36ad8a6e9a1f87e112b67 ""
-  "simplehipstercv.cls" 1728202551.95598 10757 c85c243d06d400a6ac177620d621773b ""
-  "simplehipstercv.sty" 1728202551.95598 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
+  "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" 1728216331.60382 6038 a0e628f5f1a5ed07e5f6d8805fc70604 ""
+  "jack.jpg" 1728214903.05576 100089 ea93a2aa8fd4e3a58d172dab71efae2f ""
+  "main.aux" 1728216332.70382 205 e0f3f30905e323e3dbd0313132f84219 "pdflatex"
+  "main.out" 1728216332.54382 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1728216331.60382 6038 a0e628f5f1a5ed07e5f6d8805fc70604 ""
+  "simplehipstercv.cls" 1728214903.07176 10757 c85c243d06d400a6ac177620d621773b ""
+  "simplehipstercv.sty" 1728214903.07176 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
   (generated)
   "main.aux"
   "main.log"

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728137251.09561 "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" "main.pdf" "main" 1728137252.18337 0
+["pdflatex"] 1728210427.44137 "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" "main.pdf" "main" 1728210428.31974 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -30,7 +30,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm" 1463430686 1360 76c648952c3cfb458d3ca1d9dde7e9bf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb" 1407086865 95654 51073b0b9b80cb73a0ef015e8e78ff70 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb" 1407086865 90961 1cd5078e3f1d1832f362039d15fc8827 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1248133631 32442 c975af247b6702f7ca0c299af3616b80 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb" 1215737283 175641 e30a691dc1402b08fd6535cf8a31e5b7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb" 1463430686 173219 54847ac27638e1e28852258f5be2fa20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf" 1407086865 1760 7df6bb44cf2bb7ec7ca13940c05cd411 ""
@@ -217,15 +216,13 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1728066342 5474867 7194e02fe3e8648570d423be8d224101 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1728066427 3325963 35979c8d4c2af92bfd208ae04ef2dc73 ""
   "/usr/local/texlive/2024/texmf.cnf" 1728066335 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" 1728137250.6911 5102 057cacbb8ae19ebb0d419bb08625afe8 ""
-  "disney.png" 1728122262.63391 5035 8a5c2644f0b9fa9ec72617e5b776c472 ""
-  "jack.jpg" 1728122262.63791 203784 2738576fd541d648ba9772042bc98def ""
-  "main.aux" 1728137252.0711 205 e0f3f30905e323e3dbd0313132f84219 "pdflatex"
-  "main.out" 1728137251.8791 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1728137250.6911 5102 057cacbb8ae19ebb0d419bb08625afe8 ""
-  "medal.jpeg" 1728122262.63791 9864 73e240492352dbf26d4ab122705bd599 ""
-  "simplehipstercv.cls" 1728122262.63791 10757 c85c243d06d400a6ac177620d621773b ""
-  "simplehipstercv.sty" 1728122262.63791 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
+  "/workspaces/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/master-csmi-2024-2026-m1-2024-cv-csmi-2024-project-cv/main.tex" 1728210426.15993 5890 b6e5ab47eef36ad8a6e9a1f87e112b67 ""
+  "jack.jpg" 1728202551.94798 203784 2738576fd541d648ba9772042bc98def ""
+  "main.aux" 1728210428.18793 205 e0f3f30905e323e3dbd0313132f84219 "pdflatex"
+  "main.out" 1728210428.03193 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1728210426.15993 5890 b6e5ab47eef36ad8a6e9a1f87e112b67 ""
+  "simplehipstercv.cls" 1728202551.95598 10757 c85c243d06d400a6ac177620d621773b ""
+  "simplehipstercv.sty" 1728202551.95598 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
   (generated)
   "main.aux"
   "main.log"
